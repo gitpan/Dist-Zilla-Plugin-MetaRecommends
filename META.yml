@@ -1,0 +1,16 @@
+---
+abstract: "provide \"recommends\" section for distribution metadata for optional prereqs"
+author:
+  - 'Alex White <VVu@geekfarm.org>'
+generated_by: 'Dist::Zilla version 1.092680'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Dist-Zilla-Plugin-MetaRecommends
+requires:
+  Dist::Zilla::Role::MetaProvider: 0
+  ExtUtils::MakeMaker: 0
+  Moose: 0
+  Test::More: 0
+version: 0.01
