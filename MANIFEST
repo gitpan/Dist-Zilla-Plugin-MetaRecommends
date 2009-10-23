@@ -9,3 +9,5 @@ lib/Dist/Zilla/Plugin/MetaRecommends.pm
 t/00.load.t
 t/critic.t
 t/meta.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
