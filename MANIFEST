@@ -5,9 +5,12 @@ META.yml
 Makefile.PL
 README
 dist.ini
+examples.pod
 lib/Dist/Zilla/Plugin/MetaRecommends.pm
 t/00.load.t
 t/critic.t
+t/kwalitee.t
 t/meta.t
+t/no_tabs.t
 t/release-pod-coverage.t
 t/release-pod-syntax.t

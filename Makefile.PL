@@ -9,7 +9,7 @@ WriteMakefile(
   NAME      => 'Dist::Zilla::Plugin::MetaRecommends',
   AUTHOR    => 'Alex\ White\ \<VVu\@geekfarm\.org\>',
   ABSTRACT  => 'provide\ \"recommends\"\ section\ for\ distribution\ metadata\ for\ optional\ prereqs',
-  VERSION   => '0.02',
+  VERSION   => '0.03',
   EXE_FILES => [ qw() ],
   (eval { ExtUtils::MakeMaker->VERSION(6.31) } ? (LICENSE => 'perl') : ()),
   PREREQ_PM    => {

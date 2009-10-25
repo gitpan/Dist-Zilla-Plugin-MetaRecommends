@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Dist-Zilla-Plugin-MetaRecommends, version
-0.02:
+0.03:
 
   provide "recommends" section for distribution metadata for optional prereqs
 
